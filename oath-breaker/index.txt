@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<center><iframe src="https://i.simmer.io/@VKapitany/oath-breaker" style="width:720px;height:550px;border:0"></iframe>
+</iframe>
+<table style="width:100%">
+  <tr>
+    <th><b>Controls</th
+    <th>Dev team</b></th>
+  </tr>
+  <tr>
+    <td>WASD / left-right arrow keys - movement</td>
+    <td>Lucia Cangarova [church/hell scenes, mobs, player/mob interactions]</td>
+  </tr>
+  <tr>
+    <td>Space (potato scene)</td>
+    <td>Valentin Kapitany [story scenes, player/item interactions]</td>	
+  </tr>
+  <tr>
+    <td>Right-click (Ciwi [dog] scene)</td>
+    <td>Marion Cromb [potato/dog scenes/animations, ending cutscene]</td>	
+  </tr>
+</table>
+</center>
+</body>
+</html>
