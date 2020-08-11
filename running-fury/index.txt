@@ -1,8 +1,33 @@
+
+
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Running Fury</h1>
+<center><h1>Running Fury</h1></center>
 <center><iframe src="https://i.simmer.io/@VKapitany/running-fury" style="width:720px;height:460px;border:0">
-</iframe></center>
+</iframe>
+
+<h3>controls:</h3>
+
+AD / left-right arrow keys - movement
+Space - jump
+
+<br>
+Grab the yellow sparking pills or push the red balls off the stage to earn points
+<br>
+If the ducks reach you, they steal a point!
+<br>
+Careful not to fall down or get exploded by the bombs!
+
+<h3>Team:</h3>
+
+<br>Lucia Cangarova [player/scene interaction]
+<br>Valentin Kapitany [animations + player control]
+<br>Bjarne (?) [procedural scene generation]
+<br>Timothy Lundberg [textures]
+
+Game designed at Dundee University Quackathon, 2020.
+
+</center>
 </body>
 </html>
